@@ -136,7 +136,7 @@ section {
 }
 
 .banner {
-    background-image: url('.pics/banner.df76377e.jpg');
+    background-image: url('./pics/banner.df76377e.jpg');
     height: 60vh;
     text-align: center;
     color: white;
@@ -207,7 +207,7 @@ section {
 }
 
 .second-banner {
-    background-image: URL('.pics/banner2.jpg');
+    background-image: URL('./pics/banner2.jpg');
     position: relative;
     top: 90em;
     text-align: center;
