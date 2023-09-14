@@ -259,6 +259,10 @@ section {
 }
 
 @media screen and (max-width: 500px) {
+    body {
+        overflow: hidden;
+    }
+    
     .title {
         font-size: 100px;
         text-shadow: #fff 0px 2px 0, #fff -2px -2px 0, #fff -2px 2px 0, #fff 2px -2px 0;
